@@ -1,7 +1,12 @@
 
-# [NotNypical](https://notnypical.github.io/)
+# NotNypical
 
 Website source code.
+
+
+## Copyright
+
+Copyright &copy; 2020 [NotNypical](https://notnypical.github.io).
 
 
 ## License
