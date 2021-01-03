@@ -6,7 +6,7 @@ Website source code.
 
 ## Copyright
 
-Copyright &copy; 2020 [NotNypical](https://notnypical.github.io).
+Copyright &copy; 2020-2021 [NotNypical](https://notnypical.github.io).
 
 
 ## License
